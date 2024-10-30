@@ -3,4 +3,7 @@ This model is designed for Handwritten Text Recognition (HTR) and supports both 
 
 ### The code is being refined and documented for improved clarity. It will be available here shortly. Thank you for your patience!
 
-![archicture (1)](https://github.com/user-attachments/assets/241cff67-1149-48bb-9c3e-27c253f823e0)
+![archicture (4)](https://github.com/user-attachments/assets/53da0afa-b80c-4cc0-a1f1-7a7d86f7a1dd)
+
+
+![KD_Teacher_StudentModel](https://github.com/user-attachments/assets/505242e1-133d-4f21-b124-54c66e5f89a7)
