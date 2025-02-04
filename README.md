@@ -1,4 +1,5 @@
-# HAND-MASTER: Handwritten Attention Network with Distillation - Multiple Attention and Sequential Training for Enhanced Recognition
+# HTR-JAND: Handwritten Text Recognition with Joint Attention Network and Knowledge Distillation chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2412.18524
+
 This model is designed for Handwritten Text Recognition (HTR) and supports both teacher-student training paradigms as well as ensemble methods. It allows simultaneous training of teacher and student models, or training of a student model from a pretrained teacher or an ensemble of teachers.
 
 ### The code is being refined and documented for improved clarity. It will be available here shortly. Thank you for your patience!
